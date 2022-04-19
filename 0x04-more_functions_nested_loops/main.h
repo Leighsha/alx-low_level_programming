@@ -15,8 +15,3 @@ void print_triangle(int size);
 void print_number(int n);
 
 #endif
-
-
-chmod u+x main.h
-[i
-[A[[A[C[C[C[C[C[C[C[C[C[C[[A[A
